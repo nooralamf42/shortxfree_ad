@@ -24,6 +24,7 @@ body{
 
 .inside-box-h2{
     color: black;
+    overflow: auto;
 }
 
 .inside-box{
